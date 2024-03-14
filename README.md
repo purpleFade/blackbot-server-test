@@ -16,5 +16,3 @@ This repository contains a Node.js server utilizing Express and WebSocket to pro
   Install dependencies using npm install.
   Start the server using npm start.
   Connect clients to the WebSocket server to receive real-time cryptocurrency price updates.
-
-### 
