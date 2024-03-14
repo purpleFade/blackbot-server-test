@@ -1,5 +1,5 @@
 
-### Real-Time Cryptocurrency Price Updates with WebSocket
+# Real-Time Cryptocurrency Price Updates with WebSocket
 This repository contains a Node.js server utilizing Express and WebSocket to provide real-time cryptocurrency price updates from the Binance API. Clients can connect to the server via WebSocket to receive live price updates for various cryptocurrencies.
 
 ## Features
@@ -17,3 +17,4 @@ This repository contains a Node.js server utilizing Express and WebSocket to pro
   Start the server using npm start.
   Connect clients to the WebSocket server to receive real-time cryptocurrency price updates.
 
+### 
